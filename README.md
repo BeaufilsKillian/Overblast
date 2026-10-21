@@ -1,6 +1,6 @@
-# Overblast -- Optimisation énergétique de robots autonomes en entrepôt
+# Overblast - Optimisation énergétique de robots autonomes en entrepôt
 
-**Projet de TIPE -- CPGE TSI | Python • PyTorch • NumPy • Matplotlib**
+**Projet de TIPE - CPGE TSI | Python • PyTorch • NumPy • Matplotlib**
 
 > **Problématique :** Dans quelle mesure l'intelligence artificielle peut-elle améliorer l'efficacité des robots évoluant dans un entrepôt ?
 
