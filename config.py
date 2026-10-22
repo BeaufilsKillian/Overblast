@@ -129,7 +129,7 @@ COULEURS_ROBOTS = ["red", "blue", "orange"]
 # Reproductibilité
 # ---------------------------------------------------------------------------
 
-GRAINE = 42
+GRAINE = 50
 
 
 def initialiser_graines():
